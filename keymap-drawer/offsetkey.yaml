@@ -31,7 +31,7 @@ layers:
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - {t: \, s: '|'}
-  - Ctl+X
+  - {t: X, h: '$$mdi:apple-keyboard-command$$'}
   - T
   - $$mdi:apple-keyboard-caps$$
   - A
@@ -46,7 +46,7 @@ layers:
   - {t: ;, s: ':'}
   - .
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - Ctl+C
+  - {t: C, h: '$$mdi:apple-keyboard-command$$'}
   - G
   - $$mdi:apple-keyboard-shift$$
   - Z
@@ -61,7 +61,7 @@ layers:
   - {t: /, s: '?'}
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:arrow-up-bold$$
-  - Ctl+V
+  - {t: V, h: '$$mdi:apple-keyboard-command$$'}
   - B
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-command$$
