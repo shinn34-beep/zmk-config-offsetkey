@@ -76,10 +76,10 @@ layers:
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
   - $$mdi:keyboard-space$$
-  - Ctl+Z
+  - {t: Z, h: '$$mdi:apple-keyboard-command$$'}
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:mouse-right-click-outline$$
-  - Ctl+Y
+  - Gui+Y
   - '&mkp MB3'
   - '&msc MOVE_Y(15)'
   - $$mdi:mouse-left-click-outline$$
