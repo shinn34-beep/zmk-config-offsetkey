@@ -69,7 +69,7 @@ layers:
   - '1'
   - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
-  - CLCK
+  - Ctl+Alt+$$mdi:keyboard-space$$
   - {t: 'AltGr+$$mdi:keyboard-return$$', type: enter}
   - '2'
   - $$mdi:arrow-left-bold$$
